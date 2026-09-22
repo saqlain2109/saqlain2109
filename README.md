@@ -61,7 +61,7 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |:---|:---|:---|:---:|
-| 💻 **[macOS Web OS](https://github.com/saqlain2109/macOS-Portfolio)** | Interactive macOS desktop environment with window manager physics and apps | TypeScript, React, Tailwind CSS | [📁 View Repo](https://github.com/saqlain2109/macOS-Portfolio) |
+| 💻 **[macOS Web OS](https://github.com/saqlain2109/macOS-Portfolio)** | Interactive macOS desktop environment with window manager physics and apps | TypeScript, React, Tailwind CSS | [🔗 Open Demo](https://mac-ios-portfolio.netlify.app/) |
 | 🏢 **[E-Procurement Portal](https://github.com/saqlain2109/E-procument)** | Enterprise multi-vendor procurement, RFP tender workflow & quotation tracker | TypeScript, Node.js Express, Vercel | [🔗 Open Demo](https://e-procument.vercel.app) |
 | 💬 **[Chatty Real-Time Messaging](https://github.com/saqlain2109/chatty-app)** | Full-stack instant chat platform with WebSocket bi-directional messaging | JavaScript, Socket.io, Node.js, React | [🔗 Open Demo](https://chatty-app-opal.vercel.app) |
 | 📄 **[AI Resume Analyzer](https://github.com/saqlain2109/resume_analyser)** | Intelligent resume parser, qualification scoring engine, and role recommendation | React Router, Docker, TypeScript, NLP | [📁 View Repo](https://github.com/saqlain2109/resume_analyser) |
