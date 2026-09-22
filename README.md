@@ -63,14 +63,14 @@
 |:---|:---|:---|:---:|
 | 💻 **[macOS Web OS](https://github.com/saqlain2109/macOS-Portfolio)** | Interactive macOS desktop environment with window manager physics and apps | TypeScript, React, Tailwind CSS | [🔗 Open Demo](https://mac-ios-portfolio.netlify.app/) |
 | 🏢 **[E-Procurement Portal](https://github.com/saqlain2109/E-procument)** | Enterprise multi-vendor procurement, RFP tender workflow & quotation tracker | TypeScript, Node.js Express, Vercel | [🔗 Open Demo](https://e-procument.vercel.app) |
-| 💬 **[Chatty Real-Time Messaging](https://github.com/saqlain2109/chatty-app)** | Full-stack instant chat platform with WebSocket bi-directional messaging | JavaScript, Socket.io, Node.js, React | [🔗 Open Demo](https://chatty-app-opal.vercel.app) |
+| 💬 **[Chatty Real-Time Messaging](https://github.com/saqlain2109/chatty-app)** | Full-stack instant chat platform with WebSocket bi-directional messaging | JavaScript, Socket.io, Node.js, React | [📁 View Repo](https://github.com/saqlain2109/chatty-app) |
 | 📄 **[AI Resume Analyzer](https://github.com/saqlain2109/resume_analyser)** | Intelligent resume parser, qualification scoring engine, and role recommendation | React Router, Docker, TypeScript, NLP | [📁 View Repo](https://github.com/saqlain2109/resume_analyser) |
-| 🎓 **[Student Management System](https://github.com/saqlain2109/student-management)** | Academic lifecycle management with role-based access & grade records | React, Supabase PostgreSQL, Tailwind | [🔗 Open Demo](https://student-management-pi-steel.vercel.app) |
+| 🎓 **[Student Management System](https://github.com/saqlain2109/student-management)** | Academic lifecycle management with role-based access & grade records | React, Supabase PostgreSQL, Tailwind | [🔗 Open Demo](https://student-management-pi-steel.vercel.app/) |
 | ✈️ **[TravEx Travel & Expense](https://github.com/saqlain2109/Travel-local-Expense)** | Corporate travel bookings & multi-tier expense reimbursement portal | React, Node.js Express, SQLite | [🔗 Open Demo](https://travel-local-expense.vercel.app) |
 | 🏠 **[Holohome IoT Backend](https://github.com/saqlain2109/Holohome)** | Smart IoT home automation backend and connected device control hub | Python, Flask/Django APIs, Hardware Hub | [📁 View Repo](https://github.com/saqlain2109/Holohome) |
-| 🌐 **[3D WebGL Portfolio](https://github.com/saqlain2109/3D-portfolio)** | 3D interactive developer portfolio with smooth camera transitions & WebGL | Three.js, React, Tailwind CSS, Vite | [📁 View Repo](https://github.com/saqlain2109/3D-portfolio) |
-| ⛳ **[Sidcup Golf Club](https://github.com/saqlain2109/GolfSiteClone)** | Luxury recreation site clone with custom cursor physics & GSAP ScrollTrigger | HTML5, CSS3, GSAP, Video Backdrop | [📁 View Repo](https://github.com/saqlain2109/GolfSiteClone) |
-| 🎨 **[Lazarev Agency Clone](https://github.com/saqlain2109/lazarev)** | Awwwards-inspired design experience with smooth inertia scroll & video previews | HTML5, Advanced CSS3, JavaScript | [📁 View Repo](https://github.com/saqlain2109/lazarev) |
+| 🌐 **[3D WebGL Portfolio](https://github.com/saqlain2109/3D-portfolio)** | 3D interactive developer portfolio with smooth camera transitions & WebGL | Three.js, React, Tailwind CSS, Vite | [🔗 Open Demo](https://saqlain-portfolio-pvt.netlify.app/) |
+| ⛳ **[Sidcup Golf Club](https://github.com/saqlain2109/GolfSiteClone)** | Luxury recreation site clone with custom cursor physics & GSAP ScrollTrigger | HTML5, CSS3, GSAP, Video Backdrop | [🔗 Open Demo](https://golfclube.netlify.app/) |
+| 🎨 **[Velvet Pour](https://github.com/saqlain2109/lazarev)** | Awwwards-inspired design experience with smooth inertia scroll & video previews | HTML5, Advanced CSS3, JavaScript | [🔗 Open Demo](https://velvet-pour-clone.netlify.app/) |
 
 ---
 
