@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Saqlain Sohail Supariwala 👋</h1>
+  <h1>Hi there, I'm Saqlain Supariwala 👋</h1>
   <p><strong>Full-Stack Software Engineer & Generative AI Developer</strong></p>
   <p>Passionate about building scalable full-stack web applications, real-time architectures, intelligent AI systems, and high-performance user interfaces.</p>
 
